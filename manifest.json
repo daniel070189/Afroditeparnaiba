@@ -1,0 +1,16 @@
+{
+  "name": "Afroditeparnaiba",
+  "short_name": "Afroditeparnaiba",
+  "description": "Somos o Sexshop com preço imbatível e o produto de qualidade! Fazemos entrega com sigilo total.",
+  "start_url": "https://www.afroditeparnaiba.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/path/to/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
